@@ -230,6 +230,16 @@ def print_breweries(verbose, quiet):
             print_brewery(ref, data)
             need_newline = True
 
+    if len(KNOWN_BREWERIES) != len(all_breweries):
+        if need_newline:
+            print()
+            need_newline = False
+
+        for ref in sorted(KNOWN_BREWERIES):
+            if ref not in all_breweries:
+                print("%s is no longer listed" % ref)
+                need_newline = True
+
     if not quiet:
         if need_newline:
             print()
