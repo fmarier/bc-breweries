@@ -170,7 +170,6 @@ KNOWN_BREWERIES = [
     'The Tin Whistle Brewing Company',
     'The Tree Brewing Beer Institute',
     'Three Ranges Brewing',
-    'Tin Whistle Brewing',
     'Tinhouse Brewing Inc',
     'Tofino Brewing Company',
     'Torchlight Brewing Co',
