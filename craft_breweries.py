@@ -141,6 +141,7 @@ KNOWN_BREWERIES = [
     'Red Truck Beer Company',
     'Ridge Brewing Company',
     'Riot Brewing Co',
+    'Rossland Beer Company',
     'Rumpus Beer Company',
     'Russell Brewing Company',
     'Rustic Reel Brewing Co',
