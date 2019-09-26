@@ -126,6 +126,8 @@ KNOWN_BREWERIES = [
     'Mount Arrowsmith Brewing Co',
     'Mt. Begbie Brewing Co.',
     'Nelson Brewing Company',
+    'New Tradition Brewing Company',
+    'North Point Brewing Co',
     'Northpaw Brew Co.',
     'Old Abbey Ales',
     'Old Yale Brewing Co.',
