@@ -141,6 +141,7 @@ KNOWN_BREWERIES = [
     'R&B Brewing Company',
     'Ravens Brewing Company',
     'Red Arrow Brewing',
+    'Red Collar Brewing Co.',
     'Red Truck Beer Company',
     'Ridge Brewing Company',
     'Riot Brewing Co',
