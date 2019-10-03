@@ -195,6 +195,7 @@ KNOWN_BREWERIES = [
     'White Rock Beach Beer Co',
     'White Sails Brewing',
     'Whitetooth Brewing',
+    'Wildeye Brewing',
     'Wolf Brewing Company',
     'Yaletown Brewing Co.',
     'Yellow Dog Brewery'
