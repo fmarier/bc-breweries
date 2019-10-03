@@ -151,7 +151,6 @@ KNOWN_BREWERIES = [
     'Russell Brewing Company',
     'Rustic Reel Brewing Co',
     'Salt Spring Island Ales',
-    'Savoy Brewery',
     'Sherwood Mountain Brewhouse Ltd.',
     'Silver Valley Brewing Co Ltd',
     'Slackwater Brewing',
