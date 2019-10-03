@@ -91,7 +91,6 @@ KNOWN_BREWERIES = [
     'Fisher Peak Brewing Co',
     'Five Roads Brewing Co',
     'Foamers Folly Brewing Co.',
-    'Forbidden Brewing Co',
     'Four Mile Brewing Co.',
     'Four Winds Brewing',
     'Fraser Mills Fermentation Company',
