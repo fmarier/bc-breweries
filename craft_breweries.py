@@ -166,6 +166,7 @@ KNOWN_BREWERIES = [
     'Streetcar Brewing',
     'Superflux Beer Company, Ltd',
     'Swans Brewery',
+    'Tailout Brewing',
     'Tapworks Brewing Company',
     'Taylight Brewing Inc',
     'The 101 Brewhouse & Distillery',
