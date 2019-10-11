@@ -124,6 +124,7 @@ KNOWN_BREWERIES = [
     'Moody Ales',
     'Moon Under Water Brewery - Pub and Distillery',
     'Mount Arrowsmith Brewing Co',
+    'Mountainview Brewing Company',
     'Mt. Begbie Brewing Co.',
     'Nelson Brewing Company',
     'New Tradition Brewing Company',
