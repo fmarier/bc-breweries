@@ -156,6 +156,7 @@ KNOWN_BREWERIES = [
     'Slackwater Brewing',
     'Small Block Brewery',
     'Smithers Brewing Co',
+    'Smugglers Trail Caskworks',
     'Sooke Brewing Company',
     'Sooke Oceanside Brewery',
     'Spinnakers Brewpub',
