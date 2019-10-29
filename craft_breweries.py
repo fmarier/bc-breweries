@@ -35,6 +35,7 @@ LIST_URL = 'https://bccraftbeer.com/our-breweries/'
 
 KNOWN_BREWERIES = [
     '33 Acres Brewing',
+    '4 Mile Brewing Co.',
     'A-FRAME Brewing',
     'Ace Brewing Company',
     'Andina Brewing Company',
@@ -91,7 +92,6 @@ KNOWN_BREWERIES = [
     'Fisher Peak Brewing Co',
     'Five Roads Brewing Co',
     'Foamers Folly Brewing Co.',
-    'Four Mile Brewing Co.',
     'Four Winds Brewing',
     'Fraser Mills Fermentation Company',
     "Freddy's Brewpub",
