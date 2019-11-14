@@ -84,6 +84,7 @@ KNOWN_BREWERIES = [
     'Electric Bicycle Brewing',
     'Elevation 57 Brewing Co',
     'Empty Keg Brew House',
+    'Erie Creek Brewing Co',
     'Faculty Brewing Co',
     'Farm Country Brewing Inc',
     'Fernie Brewing Company',
