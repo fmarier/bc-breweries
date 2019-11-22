@@ -78,6 +78,7 @@ KNOWN_BREWERIES = [
     'Dageraad Brewing',
     'Dead Frog Brewery',
     'Deep Cove Brewers & Distillers',
+    'Dockside Brewing Company',
     'Dog Mountain Brewing',
     'Driftwood Brewery',
     'East Vancouver Brewing Co',
