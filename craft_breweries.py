@@ -192,7 +192,7 @@ KNOWN_BREWERIES = [
     'Twin Sails Brewing',
     'Ucluelet Brewing Company',
     'Ursa Minor Brewing Corp',
-    'Vancouver Island Brewery',
+    'Vancouver Island Brewing',
     'Vice & Virtue Brewing Co.',
     'Wheelhouse Brewery',
     'Whistle Buoy Brewing Co.',
