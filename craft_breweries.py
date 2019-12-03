@@ -95,6 +95,7 @@ KNOWN_BREWERIES = [
     'Five Roads Brewing Co',
     'Foamers Folly Brewing Co.',
     'Four Winds Brewing',
+    'Fox Mountain Brewing Co',
     'Fraser Mills Fermentation Company',
     "Freddy's Brewpub",
     'Fuggles & Warlock Craftworks',
