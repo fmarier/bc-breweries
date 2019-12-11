@@ -47,6 +47,7 @@ KNOWN_BREWERIES = [
     'Bad Tattoo Brewing',
     'Barkerville Brewing',
     'Barley Station',
+    'Barn Owl Brewing Company',
     'Barnside Brewing Co Ltd',
     'Beach Fire Brewing Company',
     "Beard's Brewing Co",
