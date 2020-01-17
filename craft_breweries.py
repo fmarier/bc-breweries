@@ -184,6 +184,7 @@ KNOWN_BREWERIES = [
     'The Tin Whistle Brewing Company',
     'The Tree Brewing Beer Institute',
     'Three Ranges Brewing',
+    'Tiki Jon\'s Tiki Lounge & Brewery Ltd',
     'Tinhouse Brewing Inc',
     'Tofino Brewing Company',
     'Torchlight Brewing Co',
