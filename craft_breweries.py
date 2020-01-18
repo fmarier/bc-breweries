@@ -49,7 +49,7 @@ KNOWN_BREWERIES = [
     'Barley Station',
     'Barn Owl Brewing Company',
     'Barnside Brewing Co Ltd',
-    'Beach Fire Brewing Company',
+    'Beach Fire Brewing and Nosh House',
     "Beard's Brewing Co",
     'Beere Brewing',
     'Big Ridge Brewing Co.',
