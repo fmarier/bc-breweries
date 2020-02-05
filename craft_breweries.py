@@ -114,6 +114,7 @@ KNOWN_BREWERIES = [
     'Iron Road Brewing',
     'Kettle River Brewing Co',
     'Kwantlen Polytechnic University Brewing',
+    'Lakesider Brewing',
     'Land & Sea Brewing Company',
     'Lighthouse Brewery',
     'Longwood Brewery',
