@@ -112,6 +112,7 @@ KNOWN_BREWERIES = [
     'Hoyne Brewing Co. Ltd.',
     'île Sauvage Brewing Company',
     'Iron Road Brewing',
+    'Kelowna Brewing Company',
     'Kettle River Brewing Co',
     'Kwantlen Polytechnic University Brewing',
     'Lakesider Brewing',
