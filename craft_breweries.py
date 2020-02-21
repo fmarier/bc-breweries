@@ -183,6 +183,7 @@ KNOWN_BREWERIES = [
     'Taylight Brewing Inc',
     'The 101 Brewhouse & Distillery',
     'The Bakery Brewing',
+    'The Beer Farmers',
     'The Lions Head',
     'The Parkside Brewery',
     'The Tin Whistle Brewing Company',
