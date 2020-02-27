@@ -108,6 +108,7 @@ KNOWN_BREWERIES = [
     'Herald Street Brew Works',
     'High Mountain Brewing Company',
     'Highway 97 Brewing Co',
+    'Home Town Beer Makers',
     'House of Funk Brewing Co',
     'Howe Sound Brewing',
     'Hoyne Brewing Co. Ltd.',
