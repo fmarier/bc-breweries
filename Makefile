@@ -21,6 +21,6 @@ codespell:
 
 lint:
 	@echo Running pylint...
-	@pylint3 --rcfile=.pylintrc *.py
+	@pylint --rcfile=.pylintrc *.py
 
 test: pep8 docstyle pyflakes lint codespell
