@@ -5,7 +5,7 @@ craft_breweries - List all BC craft breweries.
 Displays the list of all BC craft breweries as shown on the
 BC Craft Brewers Guild website.
 
-Copyright (C) 2019  Francois Marier <francois@fmarier.org>
+Copyright (C) 2019, 2020  Francois Marier <francois@fmarier.org>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
