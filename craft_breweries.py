@@ -71,7 +71,6 @@ KNOWN_BREWERIES = [
     'Category 12 Brewing',
     'Central City Brewers + Distillers',
     'Central City Brewpub',
-    'Coal Harbour Brewing Co',
     'Coast Mountain Brewing',
     'Container Brewing Ltd.',
     'Craig Street Brewing Co.',
