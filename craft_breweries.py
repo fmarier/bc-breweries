@@ -138,6 +138,7 @@ KNOWN_BREWERIES = [
     'Mt. Begbie Brewing Co.',
     'Nelson Brewing Company',
     'New Tradition Brewing Company',
+    'Noble Pig Brewhouse',
     'North Point Brewing Co',
     'Northpaw Brew Co.',
     'Off The Rail',
