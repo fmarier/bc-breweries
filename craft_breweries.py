@@ -136,6 +136,7 @@ KNOWN_BREWERIES = [
     'Mount Arrowsmith Brewing Co',
     'Mountainview Brewing Company',
     'Mt. Begbie Brewing Co.',
+    'Neighbourhood Brewing',
     'Nelson Brewing Company',
     'New Tradition Brewing Company',
     'Noble Pig Brewhouse',
