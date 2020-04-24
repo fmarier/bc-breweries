@@ -115,7 +115,7 @@ KNOWN_BREWERIES = [
     'île Sauvage Brewing Company',
     'Iron Road Brewing',
     'Jackknife Brewing',
-    'Kelowna Brewing Company',
+    'Kelowna Brewing Company (KBC)',
     'Kettle River Brewing Co',
     'Kwantlen Polytechnic University Brewing',
     'Lakesider Brewing',
