@@ -206,7 +206,7 @@ KNOWN_BREWERIES = [
     'Twin Sails Brewing',
     'Ucluelet Brewing Company',
     'Unleashed Brewing Co',
-    'Ursa Minor Brewing Corp',
+    'Ursa Minor Brewing Corp (BC)',
     'Vancouver Island Brewing',
     'Vice & Virtue Brewing Co.',
     'Wheelhouse Brewery',
