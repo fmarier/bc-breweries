@@ -94,7 +94,7 @@ KNOWN_BREWERIES = [
     'Fernie Brewing Company',
     'Field House Brewing',
     'Firehall Brewery',
-    'Fisher Peak Brewing Co',
+    'Fisher Peak Brewing Co / The Heid Out',
     'Five Roads Brewing Co',
     'Foamers Folly Brewing Co.',
     'Four Winds Brewing',
