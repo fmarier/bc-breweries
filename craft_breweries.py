@@ -106,7 +106,7 @@ KNOWN_BREWERIES = [
     'Gladstone Brewing',
     'Green Leaf Brewing Co',
     'Hearthstone Brewery',
-    'Herald Street Brew Works',
+    'Herald St. Brew Works',
     'High Mountain Brewing Company',
     'Highway 97 Brewing Co',
     'Home Town Beer Makers',
