@@ -207,6 +207,7 @@ KNOWN_BREWERIES = [
     'Ursa Minor Brewing Corp (BC)',
     'Vancouver Island Brewing',
     'Vice & Virtue Brewing Co.',
+    'Welton Brewery Inc',
     'Wheelhouse Brewery',
     'Whistle Buoy Brewing Co.',
     'Whistler Brewing Company',
