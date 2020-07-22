@@ -132,6 +132,7 @@ KNOWN_BREWERIES = [
     'Mighty Peace Brewing Co.',
     'Monkey 9 Brewing Co',
     'Moody Ales',
+    'Moon Under Water Brewery - Pub and Distillery',
     'Mount Arrowsmith Brewing Co',
     'Mountainview Brewing Company',
     'Mt. Begbie Brewing Co.',
