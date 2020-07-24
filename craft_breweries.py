@@ -74,6 +74,7 @@ KNOWN_BREWERIES = [
     'Central City Brewpub',
     'Coast Mountain Brewing',
     'Container Brewing Ltd.',
+    'Copper Brewing Co',
     'Craig Street Brewing Co.',
     'Crannóg Ales',
     'CrossRoads Brewing',
