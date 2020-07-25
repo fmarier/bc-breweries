@@ -153,6 +153,7 @@ KNOWN_BREWERIES = [
     'Phillips Brewery',
     'Powell Brewery',
     'R&B Brewing Company',
+    'Radium Brewing',
     'Ravens Brewing Company',
     'Red Arrow Brewing',
     'Red Collar Brewing Co.',
