@@ -140,6 +140,7 @@ KNOWN_BREWERIES = [
     'Nelson Brewing Company',
     'New Tradition Brewing Company',
     'Noble Pig Brewhouse',
+    'North Island College Craft Brewing and Malting Program',
     'North Point Brewing Co',
     'Northpaw Brew Co.',
     'Off The Rail',
