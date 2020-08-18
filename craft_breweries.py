@@ -215,7 +215,6 @@ KNOWN_BREWERIES = [
     'Wheelhouse Brewery',
     'Whistle Buoy Brewing Co.',
     'Whistler Brewing Company',
-    'White Rock Beach Beer Co',
     'White Sails Brewing',
     'Whitetooth Brewing',
     'Wildeye Brewing',
