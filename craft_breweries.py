@@ -110,6 +110,7 @@ KNOWN_BREWERIES = [
     'High Mountain Brewing Company',
     'Highway 97 Brewing Co',
     'Home Town Beer Makers',
+    'Hornby Island Brewing Co',
     'House of Funk Brewing Co',
     'Howe Sound Brewing',
     'Howl Brewing',
