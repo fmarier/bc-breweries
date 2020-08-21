@@ -5,3 +5,4 @@ disable=missing-docstring,line-too-long
 output-format=text
 files-output=no
 reports=no
+score=no
