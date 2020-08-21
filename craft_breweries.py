@@ -28,7 +28,7 @@ import sys
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
-from lxml import html
+from lxml import html  # nosec
 
 VERSION = '0.1'
 LIST_URL = 'https://bccraftbeer.com/our-breweries/'
@@ -299,7 +299,7 @@ def process_html(page):
 def download_html(url):
     """Download the BC Craft Brewers Guild HTML in an efficient way."""
     request = Request(url, headers={'Accept-encoding': 'gzip'})
-    response = urlopen(request)
+    response = urlopen(request)  # nosec
 
     if response.info().get('Content-Encoding') == 'gzip':
         buf = io.BytesIO(response.read())
