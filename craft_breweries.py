@@ -184,7 +184,7 @@ KNOWN_BREWERIES = [
     'Strange Fellows Brewing',
     'Strathcona Beer Company',
     'Streetcar Brewing',
-    'Superflux Beer Company, Ltd',
+    'Superflux Beer Company',
     'Swans Brewery',
     'Tailout Brewing',
     'Tapworks Brewing Company',
