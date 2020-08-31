@@ -210,6 +210,7 @@ KNOWN_BREWERIES = [
     'Ucluelet Brewing Company',
     'Unleashed Brewing Co',
     'Ursa Minor Brewing Corp (BC)',
+    'V2V Blacks Hops Brewing Co.',
     'Vancouver Island Brewing',
     'Vice & Virtue Brewing Co.',
     'Welton Brewery Inc',
