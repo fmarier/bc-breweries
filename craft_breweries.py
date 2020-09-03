@@ -38,6 +38,7 @@ KNOWN_BREWERIES = [
     '4 Mile Brewing Co.',
     'A-FRAME Brewing',
     'Ace Brewing Company',
+    'Alberni Brewing Company',
     'Andina Brewing Company',
     'Angry Hen Brewing Co',
     'Another Beer Company Inc',
