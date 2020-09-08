@@ -93,6 +93,7 @@ KNOWN_BREWERIES = [
     'Erie Creek Brewing Co',
     'Faculty Brewing Co',
     'Farm Country Brewing Inc',
+    'Farmhouse Brewing Co',
     'Fernie Brewing Company',
     'Field House Brewing',
     'Firehall Brewery',
