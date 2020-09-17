@@ -130,6 +130,7 @@ KNOWN_BREWERIES = [
     'Longwood Brewery',
     'Longwood Brewpub',
     'LoveShack Libations',
+    'Luppolo Brewing Company',
     'Main Street Brewing',
     'Maple Meadows Brewing',
     'Mariner Brewing',
