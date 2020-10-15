@@ -64,7 +64,6 @@ KNOWN_BREWERIES = [
     'Bricklayer Brewing',
     'Bridge Brewing Co',
     'Bright Eye Brewing',
-    'Britannia Brewing',
     'Bulkley Valley Brewery',
     'Callister Brewing Company',
     'Camp Beer Co',
