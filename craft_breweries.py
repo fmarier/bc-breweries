@@ -155,6 +155,7 @@ KNOWN_BREWERIES = [
     'Old Yale Brewing Co.',
     'Over Time Beer Works',
     'Parallel 49 Brewing',
+    'Patina Brewhouse & BBQ',
     'Pemberton Brewing Co',
     'Persephone Brewing Company',
     'Phillips Brewery',
