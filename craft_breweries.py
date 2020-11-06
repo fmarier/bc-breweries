@@ -72,6 +72,7 @@ KNOWN_BREWERIES = [
     'Category 12 Brewing',
     'Central City Brewers + Distillers',
     'Central City Brewpub',
+    'Checkerhead Brewing',
     'Coast Mountain Brewing',
     'Container Brewing Ltd.',
     'Copper Brewing Co',
