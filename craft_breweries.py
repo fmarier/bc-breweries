@@ -83,6 +83,7 @@ KNOWN_BREWERIES = [
     'Dageraad Brewing',
     'Dead Frog Brewery',
     'Deep Cove Brewers & Distillers',
+    'Devil\'s Bath Brewing Co.',
     'Dockside Brewing Company',
     'Dog Mountain Brewing',
     'Driftwood Brewery',
