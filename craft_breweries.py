@@ -109,7 +109,6 @@ KNOWN_BREWERIES = [
     'Galaxie Craft Brewhouse',
     'Gladstone Brewing',
     'Green Leaf Brewing Co',
-    'Hearthstone Brewery / Tap & Forno Restaurant',
     'Herald St. Brew Works',
     'High Mountain Brewing Company',
     'Highway 97 Brewing Co',
