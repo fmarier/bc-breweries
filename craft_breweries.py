@@ -130,6 +130,7 @@ KNOWN_BREWERIES = [
     'Land & Sea Brewing Company',
     'Lighthouse Brewery',
     'Lillooet Brewing Company',
+    'Locality Brewing',
     'Longwood Brewery',
     'Longwood Brewpub',
     'LoveShack Libations',
