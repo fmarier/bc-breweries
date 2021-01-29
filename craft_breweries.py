@@ -222,6 +222,7 @@ KNOWN_BREWERIES = [
     'Twin Sails Brewing',
     'Ucluelet Brewing Company',
     'Unleashed Brewing Co',
+    'Upscale Brewing',
     'Ursa Minor Brewing Corp (BC)',
     'V2V Blacks Hops Brewing Co.',
     'Vancouver Island Brewing',
