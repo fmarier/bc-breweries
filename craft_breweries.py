@@ -90,7 +90,6 @@ KNOWN_BREWERIES = [
     'Driftwood Brewery',
     'East Vancouver Brewing Co',
     'Electric Bicycle Brewing',
-    'Elevation 57 Brewing Co',
     'Empty Keg Brew House',
     'Erie Creek Brewing Co',
     'Faculty Brewing Co',
