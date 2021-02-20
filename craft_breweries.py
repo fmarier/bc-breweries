@@ -232,6 +232,7 @@ KNOWN_BREWERIES = [
     'Whistler Brewing Company',
     'White Sails Brewing',
     'Whitetooth Brewing',
+    'Wild North Brewing Co',
     'Wildeye Brewing',
     'Wolf Brewing Company',
     'Yaletown Brewing Co.',
