@@ -178,7 +178,7 @@ KNOWN_BREWERIES = [
     'Rumpus Beer Company',
     'Russell Brewing Company',
     'Rustic Reel Brewing Co',
-    'Salt Spring Island Ales',
+    'Salt Spring Brewing Corporation',
     'Settlement Brewing',
     'Sherwood Mountain Brewhouse Ltd.',
     'Silver Valley Brewing Co Ltd',
