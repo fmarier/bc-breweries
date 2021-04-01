@@ -183,6 +183,7 @@ KNOWN_BREWERIES = [
     'Sherwood Mountain Brewhouse Ltd.',
     'Silver Valley Brewing Co Ltd',
     'Slackwater Brewing',
+    'Slow Hand Beer Company Inc',
     'Small Block Brewery',
     'Smithers Brewing Co',
     'Smugglers Trail Caskworks',
