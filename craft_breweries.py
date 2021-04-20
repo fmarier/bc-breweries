@@ -181,6 +181,7 @@ KNOWN_BREWERIES = [
     'Salt Spring Brewing Corporation',
     'Settlement Brewing',
     'Sherwood Mountain Brewhouse Ltd.',
+    'Shore Line Brewing Co',
     'Silver Valley Brewing Co Ltd',
     'Slackwater Brewing',
     'Slow Hand Beer Company Inc',
