@@ -156,7 +156,7 @@ KNOWN_BREWERIES = [
     'North Island College Craft Brewing and Malting Program',
     'North Point Brewing Co',
     'Northpaw Brew Co.',
-    'Off The Rail',
+    'Off The Rail Brewing Co',
     'Old Abbey Ales',
     'Old Yale Brewing Co.',
     'Over Time Beer Works',
