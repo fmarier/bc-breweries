@@ -53,6 +53,7 @@ KNOWN_BREWERIES = [
     'Barnside Brewing Co Ltd',
     'Batch 44 Brewery',
     'Beach Fire Brewing and Nosh House',
+    'Beacon Brewing Ltd',
     "Beard's Brewing Co",
     'Beere Brewing',
     'Big Ridge Brewing Co.',
