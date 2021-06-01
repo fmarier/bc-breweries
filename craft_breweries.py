@@ -171,6 +171,7 @@ KNOWN_BREWERIES = [
     'Radium Brewing',
     'Ravens Brewing Company',
     'Red Arrow Brewing',
+    'Red Bird Brewing Inc',
     'Red Collar Brewing Co.',
     'Red Truck Beer Company',
     'Ridge Brewing Company',
