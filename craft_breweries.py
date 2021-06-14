@@ -126,6 +126,7 @@ KNOWN_BREWERIES = [
     'Kelowna Beer Institute',
     'Kelowna Brewing Company (KBC)',
     'Kettle River Brewing Co',
+    'Kind Brewing',
     'Kwantlen Polytechnic University Brewing',
     'Lakesider Brewing',
     'Land & Sea Brewing Company',
