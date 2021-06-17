@@ -37,6 +37,7 @@ KNOWN_BREWERIES = [
     '33 Acres Brewing',
     '4 Mile Brewing Co.',
     'A-FRAME Brewing',
+    'Abandoned Rail Brewing Company',
     'Ace Brewing Company',
     'Alberni Brewing Company',
     'Andina Brewing Company',
