@@ -220,6 +220,7 @@ KNOWN_BREWERIES = [
     'Torchlight Brewing Co',
     'Townsite Brewing',
     'Trading Post Brewery',
+    'Trading Post Brewing - District Wine Village',
     'Trail Beer Refinery',
     'Trench Brewing & Distilling',
     'Twa Dogs Brewery',
