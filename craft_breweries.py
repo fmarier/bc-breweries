@@ -84,7 +84,7 @@ KNOWN_BREWERIES = [
     'Cumberland Brewing',
     'Dageraad Brewing',
     'Dead Frog Brewery',
-    'Deadfall Brewing',
+    'Deadfall Brewing Company',
     'Deep Cove Brewers & Distillers',
     'Devil\'s Bath Brewing Co.',
     'Dockside Brewing Company',
